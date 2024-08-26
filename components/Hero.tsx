@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m <span className="text-purple">Jonathan</span>, a Fullstack Student Interested in AI/ML
+            Hi! I&apos;m <span className="text-purple">Jonathan</span>, a Fullstack & IOS Dev Student Interested in AI/ML
           </p>
 
           <a href="#about">
